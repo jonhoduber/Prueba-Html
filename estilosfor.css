@@ -1,0 +1,91 @@
+body {
+    background: white;
+    color: #000000;
+}
+/* Logotipo*/
+.iso {
+    height:auto;
+    margin:16px 270px;
+    }
+ /* Titulos */
+h2{
+    font-size:130%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#414141;
+    width:100%;
+    margin:10px 20px;
+    padding: 10px;
+}
+h3,h4 {
+    font-size:140%;
+    font-family: serif;
+    color:#414141;
+    width:100%;
+}
+p {
+    font-size:100%;
+    font-family: serif;
+    color: #929292;
+    width:100%;
+}
+img {
+    margin:0px 16px;
+}
+/* Formulario */
+form {
+    width:85%;
+    background: #f3f3f3;
+    border:1px solid #cccccc;
+    margin:30px;
+    padding:40px;
+}
+label {
+    font-size: 15px;
+    font-family:serif;
+    display:inline;
+    width: 100%;
+}
+input {
+    margin-bottom:20px;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+}
+input:focus {
+    border: 1px solid #2ab888;
+}
+input[type="submit"] {
+    margin-bottom:0;
+    background: #2ab888;
+    color: #fff;
+    border: none;
+}
+input[type="submit"]:hover {
+    background: #4a88f4;
+    cursor:pointer;
+}
+.main {
+    font-size: 12px;
+    text-decoration:none;
+    margin: 10px 10px;
+    background: #fcfcfc;
+    color: #000000;
+    padding: 10px 10px;
+    box-shadow: 0px 1px 0px #2ab888;
+    border:none;
+    cursor:pointer;
+}
+.cat {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #949494;
+    width:150%;
+    height:20px;
+}
+div {
+    background: #000000;
+    color: #fff;
+    width:300%;
+    margin: 0px 0px;
+}
+
+

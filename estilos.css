@@ -1,0 +1,112 @@
+body {
+    background: white;
+    color: #000000;
+}
+/* Logotipo*/
+.iso {
+    height:150px;
+    margin: 15px 250px;
+    }
+/* Titulos */
+h2,h3,h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#1bc9e7;
+    width:50%;
+    height:20px;
+    margin: 20px 30px;
+}
+/* Menu principal*/
+.menu {
+    width: 150%;
+    background: #222222;
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    font-size: 17px;
+    padding: 10px 20px;
+    display: inline-block;
+    color: #fff;
+    text-decoration:none;
+}
+.menu li a:hover {
+    background: #424242;
+    box-shadow: 0px 5px 0px #3BA7E1;
+    border-radius: 5px;
+
+}
+/* Boton subir scooter */
+.sub {
+    font-size: 17px;
+    text-decoration: none;
+    margin: 10px 40px;
+    background: #181818;
+    color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0px 5px 0px #3BA7E1;
+    position: relative;
+    top:;
+    bottom: 30px;
+    right:;
+    left:740px;
+    border-radius: 10px;
+}
+.sub:hover {
+    box-shadow:0px 2px 0px #000000;
+    background: #424242;
+}
+.sub:active {
+    box-shadow:none;
+}
+/* parrafos */
+p a {
+    font-size:20px;
+    color:green
+}
+p {
+    color:#000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90%;
+    width:60%;
+    margin: 20px 30px;
+    padding: 10px;
+}
+/* Enlaces y pie de pagina*/
+.red {
+    color: turquoise
+}
+div {
+    background: #000000;
+    color: #fff;
+    width:300%;
+    margin: 0px 0px;
+}
+div p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    width:150%;
+    height:20px;
+    margin:10px 30px;
+    position: relative;
+    top:;
+    bottom: 150px;
+    right:100px;
+    left:480px;
+}
+.pie {
+    height:150px;
+    margin: 15px 250px;
+    position: relative;
+    top:50px;
+    bottom: ;
+    right:210px;
+    left:;
+
+}
+
+/* Comentario en css */
